@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/farhanhafiz55/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -41,5 +41,5 @@ I am an undergraduate informatics student from the Bandung Institute of Technolo
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fnhafiz&theme=dark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fnhafiz&theme=onedark)
-<!-- ![Fnhafiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnhafiz&show_icons=true&theme=radical&include_all_commits=true) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Fnhafiz&theme=onedark) -->
+![Fnhafiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnhafiz&show_icons=true&theme=radical&include_all_commits=true)
