@@ -42,4 +42,4 @@ I am an undergraduate informatics student from the Bandung Institute of Technolo
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fnhafiz&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fnhafiz&theme=onedark)
-![Fnhafiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnhafiz&show_icons=true&theme=radical&include_all_commits=true)
+<!-- ![Fnhafiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnhafiz&show_icons=true&theme=radical&include_all_commits=true) -->
